@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	background-image: url("../images/y.jpg") ;
+}
+table{
+	border: 4px outset rgb(187, 187, 187);
+	margin-bottom: 20px;
+	font-size: 12px;
+	font-weight: bold;
+	margin: auto;
+}
+thead{
+	background-color: rgb(187, 187, 187);
+	color: #912a2a;
+}
+caption{
+	color: #912a2a;
+	margin-bottom: 8px;
+}
+td{
+	border: 1.5px inset rgb(187, 187, 187);
+}
+

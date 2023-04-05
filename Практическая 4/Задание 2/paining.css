@@ -1,0 +1,44 @@
+body{
+	padding: 0.5px;
+	background-color: #f7d7d7;
+}
+caption{
+	padding: 10px;
+	color: crimson;
+	font-weight: bold;
+	color: #b33131;
+}
+table{
+	font-size: 12px;
+	border: 4px outset whitesmoke;
+	margin-bottom: 20px;
+	margin: auto;
+}
+th{
+	border: 1.5px inset white;
+}
+td{
+	font-family: Times New Roman;
+	border: 1.5px inset white;
+}
+.mainhding{
+	padding: 5px;
+	background-color: #ce2e2e;
+	color: rgb(219, 215, 215);
+	text-align: center;
+	width: 110px;
+}
+.name{
+	width: 120px;
+}
+.oth{
+	color: white;
+	padding: 0.5px;
+}
+.hding{
+	font-weight: bold;
+}
+.big{
+	padding: 0.5px;
+	color: white;
+}
